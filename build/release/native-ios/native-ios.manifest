@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+#8bb2af05d881472594128579aebb0fb1 version undefined
+
+CACHE:
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*

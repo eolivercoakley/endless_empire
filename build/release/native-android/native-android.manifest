@@ -1,0 +1,13 @@
+CACHE MANIFEST
+
+#8bb2af05d881472594128579aebb0fb1 version undefined
+
+CACHE:
+spritesheets/resources-images0.png
+index.html
+native-android.js
+
+FALLBACK:
+
+NETWORK:
+*
